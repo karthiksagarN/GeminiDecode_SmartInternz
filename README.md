@@ -54,4 +54,13 @@ You must have prior knowledge of the following topics to complete this project:
 
 ---
 
+## Collaborators
+
+- **Karthik Sagar Nallagula**
+- **Shweta**
+- **Tanay Saxena**
+- **Rishabh**
+
+---
+
 For more details, please refer to the respective documentation and tutorials linked above.
