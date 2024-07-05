@@ -91,7 +91,7 @@ def main():
     # Set the background image
     set_background("assets/background_image.png")
 
-    st.header("Gemini-Decode : 𝑪𝑯𝑨𝑻 𝑾𝒊𝒕𝒉 𝒀𝒐𝒖𝒓 𝑷𝑫𝑭'𝒔 💬📄")
+    st.header("Gemini-Decode : PDF Bot 💬📄")
 
     user_question = st.text_input("Ask any Question from the PDF Files")
 
