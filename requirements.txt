@@ -1,8 +1,12 @@
 streamlit
 google-generativeai
 python-dotenv
-langchain
 langchain-community
+langchain
 PyPDF2
 chromadb
+faiss-cpu
 langchain_google_genai
+cassio
+tiktoken
+datasets
