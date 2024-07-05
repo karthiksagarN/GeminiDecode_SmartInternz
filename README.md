@@ -56,10 +56,10 @@ You must have prior knowledge of the following topics to complete this project:
 
 ## Collaborators
 
-- **Karthik Sagar Nallagula**
-- **Shweta**
-- **Tanay Saxena**
-- **Rishabh**
+- Karthik Sagar Nallagula(https://github.com/karthiksagarN)
+- [Shweta Thakur](https://github.com/ShwetaThakur702)
+- Tanay Saxena(https://github.com/Tanay-Saxena)
+- Rishabh Prasad(https://github.com/Riri0410)
 
 ---
 
